@@ -1,0 +1,13 @@
+In outer space one lone dare devil dodges asteroids that are on fire.
+
+Use the arrows keys to control the space craft, press space to activate your power bomb.
+Press L to restart the game if you die.
+Red capsules are power ups run into them to gain a power bomb; you may only have one power bomb at a time.
+If a golden cube spawns run into it to win the game.
+For best gameplay experience play in 1024x768.
+
+This game has music composed by Kyle Lockhart, it was programmed by Josiah Bahl
+an all artwork was taken from various places on the internet.
+
+This game is not for sale, nor should you use it as your own game.
+This was one of my first games that I created in unity, if I can do it so can you.
