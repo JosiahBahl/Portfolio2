@@ -1,0 +1,21 @@
+Card Sharks is a very early Game Show.
+
+Controls:
+
+The mouse controls everything, so click to do an action.
+
+Instructions:
+
+The goal of the game is to not lose all your money while getting as much as you can.
+You start with a base card in the bottom left hand side face up.
+The +100 and -100 can increase and decrease your bet.
+You will want to bet if the next card is either higher or lower than the base card you have.
+This can be done by clicking on the down arrow for lower or the up arrow for higher.
+Whether you win or lose the next card in the row replaces the current card you have.
+After you reach the last row at the top and you still have money left you win.
+If you run out of money the game will restart.
+
+For best gameplay experience as in I messed up on screen coordinates, play in 640x480.
+There is music in the game, but it is the Card Shark theme song and it will get old very quickly.
+
+This game is not for sale, nor should you use it as your own game.
