@@ -1,0 +1,29 @@
+Instructions:
+
+Right and Left arrow keys to move the player.
+Space to jump.
+
+Press 1 to switch into the reverse reality.
+Press 2 to switch into the fire reality.
+Press 3 to switch to duality.
+Press 4 to switch back to normal reality.
+
+In duality press T to switch between the clone and yourself.
+A and D are used to move the clone.
+W is used to jump with the clone.
+
+To advance to the next level pick up the candle and find the exit.
+
+Press restart to go back to the first level.
+
+Press P to lose a life.
+
+Lose all your lives and its game over.
+
+Also get to the fire tutorial level and there’s nowhere else to go.
+
+Play the game in 800x480 for best results.
+
+Game music made by Kyle Lockhart.
+
+Character art made by Ryna Landis.
