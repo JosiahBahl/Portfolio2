@@ -1,0 +1,11 @@
+I had a dream about this java program for help on finding bugs for the group game I am working on.
+The original plan was to make it accept .txt files then send those to your e-mail,
+I decided to go the easier and user friendly path of having them write a message.
+
+The STMP Authenticator is not my code, and I had to look up some of the sending message code,
+the important thing is that I understand it though.
+
+Now this does use a third party jar file called javax.mail and it will need to be downloaded and imported into the package.
+Other then that I have found I can only use the Gmail host, the other ones do not work as of yet.
+
+Also this is not for sale nor for use as your own, do what I did and look this shit up; its easier to learn then one might think.
